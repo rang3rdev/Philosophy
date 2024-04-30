@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ethnocultural Group Distribution in Africa</title>
+</head>
+<body>
+    <h1>Ethnocultural Group Distribution in Africa</h1>
+    <form action="/" method="post">
+        <label for="ethnic_group">Select an Ethnocultural Group:</label>
+        <select name="ethnic_group" id="ethnic_group">
+            {% for group in ethnic_groups %}
+            <option value="{{ group }}">{{ group }}</option>
+            {% endfor %}
+        </select>
+        <button type="submit">View Distribution</button>
+    </form>
+    <div>
+        {% if image %}
+        <img src="data:image/png;base64,{{ image }}" alt="Distribution Map">
+        {% endif %}
+    </div>
+</body>
+</html>

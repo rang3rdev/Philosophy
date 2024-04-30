@@ -1,0 +1,171 @@
+Guinea, Mandinka, 3786101
+Mali, Mandinka, 1772102
+Senegal, Mandinka, 900617
+The Gambia, Mandinka, 700568
+Ghana, Mandinka, 647458
+Guinea-Bissau, Mandinka, 212269
+Liberia, Mandinka, 166849
+Sierra Leone, Mandinka, 160080
+Mali, Mandinka, 1772102
+Nigeria, Hausa, 69200000
+Niger, Hausa, 13400000
+Cameroon, Hausa, 1040000
+Ivory Coast, Hausa, 1000
+Sudan, Hausa, 664000
+Ghana, Hausa, 275000
+Benin, Hausa, 36360
+Eritrea, Hausa, 30000
+Togo, Hausa, 21900
+Gabon, Hausa, 17000
+Algeria, Hausa, 12000
+Nigeria, Yoruba, 42600000
+Benin, Yoruba, 1600000
+Ghana, Yoruba, 425600
+Togo, Yoruba, 342500
+Ivory Coast, Yoruba, 115000
+Niger, Yoruba, 80700
+Sierra Leone, Yoruba, 16578
+The Gambia, Yoruba, 8477
+Burundi, Tutsi, 1700000
+Rwanda, Tutsi, 2000000
+Rwanda, Hutu, 11100000
+Burundi, Hutu, 10400000
+DR Congo, Hutu, 2000000
+Nigeria, Fulani, 15300000
+Senegal, Fulani, 5055782
+Guinea, Fulani, 4544000
+Cameroon, Fulani, 3000000
+Mali, Fulani, 2840850
+Burkina Faso, Fulani, 1800000
+Niger, Fulani, 1650000
+Benin, Fulani, 1182900
+Mauritania, Fulani, 900000
+Guinea-Bissau, Fulani, 623646
+Gambia, Fulani, 449280
+Chad, Fulani, 334000
+Sierra Leone, Fulani, 310000
+Central African Republic, Fulani, 250000
+Sudan, Fulani, 204000
+Togo, Fulani, 110000
+Ghana, Fulani, 4240
+South Sudan, Fulani, 4000
+Algeria, Fulani, 4000
+Ivory Coast, Fulani, 3800
+South Africa, Zulu, 13644000
+Zimbabwe, Zulu, 207000
+Lesotho, Zulu, 204000
+Eswatini, Zulu, 99000
+Malawi, Zulu, 76000
+Mozambique, Zulu, 6900
+Botswana, Zulu, 6700
+South Africa, Xhosa, 9415004
+Zimbabwe, Xhosa, 200000
+Botswana, Xhosa, 12000
+Namibia, Xhosa, 10000
+Lesotho, Xhosa, 23000
+Eswatini, Swazi, 1185000
+South Africa, Swazi, 1297046
+Mozambique, Swazi, 30000
+South Africa, Sotho, 5103205
+Lesotho, Sotho, 2130110
+Botswana, Sotho, 11000
+Eswatini, Sotho, 6000
+Namibia, Sotho, 4000
+Somalia, Somali, 17597511
+Ethiopia, Somali, 4581793
+Kenya, Somali, 2780502
+Djibouti, Somali, 534000
+Libya, Somali, 112000
+Tanzania, Somali, 60000
+Uganda, Somali, 41515
+South Africa, Somali, 40000
+Ethiopia, Oromo, 25489000
+Kenya, Oromo, 656636
+Sudan, Oromo, 105000
+Somalia, Oromo, 41600
+Ethiopia, Amhara, 19870651
+Kenya, Luo, 4663910 
+Tanzania, Luo, 3400000
+Kenya, Kikuyu, 8148668
+Botswana, Tswana, 2000000
+South Africa, Tswana, 5000000
+Namibia, Tswana, 10000
+Zimbabwe, Tswana, 97500
+Zimbabwe, Shona, 13000000
+Mozambique, Shona, 2300000
+South Africa, Shona, 2000000
+Zambia, Shona, 30200
+Morocco, Berber, 20000000
+Algeria, Berber, 13000000
+Niger, Berber, 2600000
+Mali, Berber, 850000
+Libya, Berber, 600000
+Burkina Faso, Berber, 406271
+Tunisia, Berber, 173937
+Mauritania, Berber, 133000
+Egypt, Berber, 23000
+Ethiopia, Afar, 2700000
+Djibouti, Afar, 342000
+Eritrea, Afar, 304000
+Ethiopia, Sidama, 2966474
+Burkina Faso, Mossi, 11118983
+Ivory Coast, Mossi, 1200000
+Ghana, Mossi, 160140
+Ghana, Ewe, 6000000
+Togo, Ewe, 3100000
+Niger, Songhai, 5106423
+Mali, Songhai, 1984114
+Nigeria, Songhai, 1200000
+Benin, Songhai, 406000
+Burkina Faso, Songhai, 241000
+Ghana, Songhai, 110000
+Sudan, Songhai, 50000
+Algeria, Songhai, 3800
+Ethiopia, Tigrayan, 4483776 
+Eritrea, Tigre, 1800000
+Eritrea, Tigrinya, 3300000
+Senegal, Wolof, 7192000
+Gambia, Wolof, 258065
+Mauritania, Wolof, 230000
+Nigeria, Igbo, 35088096
+Cameroon, Igbo, 114000
+Ghana, Igbo, 72000
+Equatorial Guinea, Igbo, 69000
+Nigeria, Tiv, 5000000
+Nigeria, Ijaw, 4000000
+Angola, Ovimbundu, 12740000
+Angola, Mbundu, 8631500
+Sierra Leone, Temne, 2220211
+Sierra Leone, Mende, 2108232
+Liberia, Mende, 46413
+Congo, Mongo, 15000000 
+Egypt, Copt, 150000000
+Sudan, Copt, 400000
+Libya, Copt, 60000
+Nigeria, Kanuri, 7850000
+Niger, Kanuri, 1500000
+Chad, Kanuri, 1071000
+Sudan, Kanuri, 381000
+Cameroon, Kanuri, 180000
+Ethiopia, Hadiya, 1269382
+Ethiopia, Gurage, 5676967
+Ethiopia, Welayta, 2241509
+Sudan, Beja, 2620000
+Eritrea, Beja, 121000
+Egypt, Beja, 88000
+South Sudan, Dinka, 4500000
+South Sudan, Nuer, 1800000
+Ethiopia, Nuer, 147672
+Chad, Sara, 5311303
+Central African Republic, Sara, 423281
+Sudan, Kanembu, 1815270
+Guinea, Susu, 2730114
+Sierra Leone, Susu, 203779
+Guinea Bissau, Susu, 5318
+South Africa, Southern-Ndebele, 2100000
+Zimbabwe, Northern-Ndebele, 2200000
+Botswana, Northern-Ndebele, 150000
+Mozambique, Tsonga, 4100000
+South Africa, Tsonga, 3300000
+Eswatini, Tsonga, 27000
+Zimbabwe, Tsonga, 5000
